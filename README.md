@@ -1,3 +1,6 @@
+Una version simplificada de la funcionalidad de youtube, usando su API.
+Usamos Vercel para el deploy, se puede ver en: https://curso-youtube-hooks.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
